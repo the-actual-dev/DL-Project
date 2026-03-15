@@ -1,0 +1,6 @@
+{
+  "split_type": "uci_presplit",
+  "n_train": 7352,
+  "n_test": 2947,
+  "leakage_check": true
+}
