@@ -17,3 +17,6 @@ logs/
 
 # Ignore temporary checkpoints
 checkpoints/tmp/
+
+# Ignore compressed local result bundles
+*.zip
